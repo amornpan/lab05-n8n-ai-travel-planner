@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wat Phra Kaew",
+        "formatted": "Na Phra Lan Rd, Phra Nakhon, Bangkok 10200",
+        "categories": ["tourism", "tourism.sights"],
+        "datasource": {
+          "sourcename": "openstreetmap"
+        },
+        "place_id": "abc123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.4927, 13.7516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wat Arun",
+        "formatted": "158 Thanon Wang Doem, Bangkok Yai, Bangkok 10600",
+        "categories": ["tourism", "tourism.sights"],
+        "datasource": {
+          "sourcename": "openstreetmap"
+        },
+        "place_id": "def456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.4891, 13.7437]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Palace",
+        "formatted": "Na Phra Lan Rd, Phra Nakhon, Bangkok 10200",
+        "categories": ["tourism", "tourism.sights"],
+        "datasource": {
+          "sourcename": "openstreetmap"
+        },
+        "place_id": "ghi789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.4913, 13.7500]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chatuchak Weekend Market",
+        "formatted": "Kamphaeng Phet 2 Rd, Chatuchak, Bangkok 10900",
+        "categories": ["tourism", "tourism.sights"],
+        "datasource": {
+          "sourcename": "openstreetmap"
+        },
+        "place_id": "jkl012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.5503, 13.7999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jim Thompson House",
+        "formatted": "6 Soi Kasem San 2, Wang Mai, Bangkok 10330",
+        "categories": ["tourism", "tourism.sights"],
+        "datasource": {
+          "sourcename": "openstreetmap"
+        },
+        "place_id": "mno345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.5291, 13.7490]
+      }
+    }
+  ]
+}
